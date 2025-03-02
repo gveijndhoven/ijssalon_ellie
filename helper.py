@@ -19,4 +19,4 @@ def onderstreep(tekst=""):
     return uit
 
 def som():
-    return sum(boekhoud_dictionary.values())
+    return sum(totaal_inkomsten.values())
